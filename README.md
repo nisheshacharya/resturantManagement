@@ -1,0 +1,2 @@
+# ResturantManagement
+node_modules
